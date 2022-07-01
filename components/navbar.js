@@ -20,7 +20,7 @@ const Navbar = () => {
         < Flex p='3vh 3vw' marginBottom='1vh' position='sticky' top={0} 
         backgroundColor='teal' zIndex={1}>
         <Box>
-            UrLogoHere
+            Mdnaz Blog
         </Box>
         <Spacer/>
         <FormControl w={100}>
